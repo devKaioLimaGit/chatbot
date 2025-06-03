@@ -69,5 +69,4 @@ Após escolher um produto, você pode:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/pybot-assistente.git
-   cd pybot-assistente
+   git clone https://github.com/devKaioLimaGit/chatbot.git
